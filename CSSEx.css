@@ -1,0 +1,56 @@
+body {
+    margin: 0% !important;
+}
+
+nav {
+    background-color: black;
+    color: white;
+    padding: 15px;
+}
+
+h2,
+.one {
+    display: inline;
+
+}
+
+.one {
+    margin-left: 70%;
+    cursor: pointer;
+}
+
+.one:hover {
+    color: aqua;
+}
+
+div,
+h1,
+address {
+    margin-top: 40px;
+
+}
+
+img {
+    margin-top: 40px;
+    display: inline;
+    border-style: solid;
+    border-width: 2px;
+    width: 230px;
+}
+
+address {
+    display: inline;
+}
+
+.two {
+    margin-top: 40px;
+    background-color: black;
+    color: white;
+    padding: 30px;
+    margin-bottom: 0%;
+}
+
+input {
+    width: 60%;
+    height: 5%;
+}
